@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FalloutWorld</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tap">Tap the Image!</string>
+    <string name="capture">Capture</string>
+    <string name="compare">Compare</string>
+</resources>
