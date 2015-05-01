@@ -3,7 +3,10 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+<<<<<<< HEAD
     <string name="tap">Tap the Image!</string>
     <string name="capture">Capture</string>
     <string name="compare">Compare</string>
+=======
+>>>>>>> 233836f9990939a56d6ba85f52d65bd43d964622
 </resources>

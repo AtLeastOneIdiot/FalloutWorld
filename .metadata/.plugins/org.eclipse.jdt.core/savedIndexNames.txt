@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+C:\severalmidgets\FalloutWorld\.metadata\.plugins\org.eclipse.jdt.core
+1171266736.index
+3111177912.index
+4274705831.index
